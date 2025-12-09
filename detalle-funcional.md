@@ -1,7 +1,7 @@
 
 ---
 
-# 📄 detalle-funcional.md (LISTO PARA COPIAR)
+#  detalle-funcional.md 
 
 ```md
 ## Detalle de la Funcionalidad: Carrito de Compra 🛒
@@ -36,4 +36,4 @@ La funcionalidad es clave para el correcto funcionamiento de la tienda, y se int
 
 ---
 
-🔙 [Volver al README](./README.md)
+[Volver al README](./README.md)
