@@ -1,4 +1,4 @@
-# Tienda Online de Camisetas de Fútbol ⚽
+# Tienda Online de Camisetas de Fútbol 
 
 Bienvenido a la documentación inicial del proyecto **Tienda Online de Camisetas de Fútbol**, una plataforma web diseñada para comprar camisetas oficiales y retro de equipos nacionales e internacionales.
 
@@ -6,7 +6,7 @@ Bienvenido a la documentación inicial del proyecto **Tienda Online de Camisetas
 
 ---
 
-## 📘 Descripción del proyecto
+##  Descripción del proyecto
 
 Este proyecto consiste en el desarrollo de una **tienda online funcional**, donde los usuarios podrán:
 
@@ -21,7 +21,7 @@ El desarrollo se basará en tecnologías como **PHP**, **MySQL**, **HTML**, **CS
 
 ---
 
-## 🎯 Público objetivo
+##  Público objetivo
 
 El proyecto está dirigido a:
 
@@ -32,7 +32,7 @@ El proyecto está dirigido a:
 
 ---
 
-## 🧩 Funcionalidades principales
+## Funcionalidades principales
 
 - Catálogo visual de camisetas.
 - Sistema **CRUD** para administradores.
@@ -43,14 +43,14 @@ El proyecto está dirigido a:
 
 ---
 
-## 🛠 Tecnologías previstas
+## Tecnologías previstas
 
-### 🖥 Frontend
+###  Frontend
 - HTML5  
 - CSS3  
 - JavaScript  
 
-### ⚙ Backend
+### Backend
 - **PHP**  
 - **MySQL**  
 - XAMPP  
@@ -58,7 +58,7 @@ El proyecto está dirigido a:
 
 ---
 
-## 📌 Características destacadas (lista no numerada)
+## Características destacadas (lista no numerada)
 - Diseño responsive.  
 - Panel de administración completo.  
 - Base de datos normalizada.  
@@ -80,7 +80,7 @@ El proyecto está dirigido a:
 
 ---
 
-## 🧪 Ejemplo de código
+##  Ejemplo de código
 
 ```html
 <div class="producto">
